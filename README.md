@@ -35,7 +35,7 @@ This project is a **Sales Dashboard** built using **Power BI**. The dashboard pr
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/sales-dashboard.git
+   git clone https://github.com/Afrinshaik2001/amazonsalesdashboard/
    ```
 2. Open the `.pbix` file in Power BI Desktop.
 3. Connect to your dataset if needed, and refresh the data.
